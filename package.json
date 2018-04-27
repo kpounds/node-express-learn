@@ -1,7 +1,7 @@
 {
   "name": "library",
   "version": "1.0.0",
-  "description": "",
+  "description": "learning and experimenting with node and express",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -16,5 +16,17 @@
     "express": "^4.16.3",
     "jquery": "^3.3.1",
     "morgan": "^1.9.0"
-  }
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kpounds81/node-express-learn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kpounds81/node-express-learn/issues"
+  },
+  "homepage": "https://github.com/kpounds81/node-express-learn#readme"
 }
